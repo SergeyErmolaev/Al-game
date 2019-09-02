@@ -1,10 +1,12 @@
 from sys import exit
 
 def wonderland():
-    #Code will be here.
+    print("You see a white rabbit with a clock.")
+    print("will you follow it or walk your ways?")
+    
 
 def trough_looking_glass():
-    # Code will be here.
+    print("")
 
 def start():
     print("You are in a strange room with a lot of doors. All of them are closed")
