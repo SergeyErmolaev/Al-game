@@ -3,7 +3,8 @@ from sys import exit
 def wonderland():
     print("You see a white rabbit with a clock.")
     print("will you follow it or walk your ways?")
-    
+
+    while True:
 
 def trough_looking_glass():
     print("")
