@@ -1,0 +1,11 @@
+A
+Afrikaans
+አማርኛ
+Аҧсшәа
+العربية
+Võro
+文言
+吴语
+ייִדיש
+中文
+Find strings of text encoded in other encodings and place them in the ex23.py file to see how it breaks
