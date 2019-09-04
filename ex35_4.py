@@ -5,6 +5,8 @@ def wonderland():
     print("will you follow it or walk your ways?")
 
     while True:
+        choice = input("> ")
+        
 
 def trough_looking_glass():
     print("")
